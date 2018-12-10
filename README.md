@@ -4,21 +4,20 @@
 LIS 2360:  Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+December 10, 2018
 
 ### Student Name:  
-(First and Last Name)
+Fabuola Pierre
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+Learn how to build an application using an API
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://fabuolap.github.io/lesson8_ajax/
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
-4. (Briefly describe a lesson/concept learned in this lesson.)
-5. (Briefly describe a lesson/concept learned in this lesson.)
+1. How to use the $.ajax() to perform an asynchronous HTTP request
+2. How to create and retrieve API key
+3. Use /Search/Movie to view the types of data the server will return to the client
+4. How to read JSON formatted response messages
+5. How to use the JavaScript console to troubleshoot web application
